@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+8kAsr1MWexxVcwUDdC69iemzvu5ihC4szLo+BLQJi3Wzvy941so8SYeq/PfZUqVaDOngrBsoYo2VxpgF+lLJw==",
+  "dgSpecHash": "iLyJfJmEYYipYiEXDsszEm0//SOk126Ro1wp1I4ZwCFDa8LFYyfW9At//hsZSap1ZePfS/laSx84AIKAJ9spiQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
+  "projectFilePath": "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

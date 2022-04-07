@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj": {}
+    "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj": {
+    "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
+        "projectUniqueName": "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
         "projectName": "ApiVersioning",
-        "projectPath": "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
+        "projectPath": "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\ApiVersioning.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\obj\\",
+        "outputPath": "C:\\Users\\Cliente\\Desktop\\Projetos\\Estudos\\ApiVersioning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
